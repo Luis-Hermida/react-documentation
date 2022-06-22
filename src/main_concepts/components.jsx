@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import { React } from "react";
+import React from "react";
 
 // Simplest way to define a component is tro write a JavaScript function that accepts  a single
 // "props" object argument and returns a React Elements

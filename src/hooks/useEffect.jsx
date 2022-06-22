@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import { React, useEffect } from "react";
+import React, { useEffect } from "react";
 
 // useEffect
 // Accepts a function that contains imperative, possibly effectful code.

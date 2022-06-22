@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
-import { React, useState } from "react";
+import React, { useState } from "react";
 
-// useEffect
+// useState
 // Returns a stateful value, and a function to update it.
 
 function Counter({ initialCount }) {

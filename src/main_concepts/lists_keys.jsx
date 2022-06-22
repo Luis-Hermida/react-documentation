@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import { React } from "react";
+import React from "react";
 
 // Rendering multiple components
 const numbers = [1, 2, 3, 4, 5];

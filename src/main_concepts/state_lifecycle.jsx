@@ -1,4 +1,4 @@
-import { React } from "react";
+import React from "react";
 
 // Adding local state to Clock Component
 export class ClockState extends React.Component {
